@@ -1,6 +1,6 @@
 --- @class Palette
 local palette = {
-    dark_01 = '#0e0e0e',
+    dark_01 = '#000000',
     dark_02 = '#111111',
     dark_03 = '#161616',
     dark_04 = '#202020',
