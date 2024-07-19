@@ -30,8 +30,8 @@ local palette = {
     yellow_02 = '#b08508',
     yellow_03 = '#f7ca88',
 
-    orange_01 = '#cc6d00',
-    orange_02 = '#dc9656',
+    orange_01 = '#C8102E',
+    orange_02 = '#C8102E',
 
     green_01 = '#000000',
     green_02 = '#000000',
