@@ -26,9 +26,9 @@ local palette = {
     red_04 = '#000000',
     red_05 = '#000000',
 
-    yellow_01 = '#7e4e08',
-    yellow_02 = '#b08508',
-    yellow_03 = '#f7ca88',
+    yellow_01 = '#C8102E',
+    yellow_02 = '#C8102E',
+    yellow_03 = '#C8102E',
 
     orange_01 = '#C8102E',
     orange_02 = '#C8102E',
