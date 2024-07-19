@@ -46,11 +46,11 @@ local palette = {
     blue_03 = '#000000',
     blue_04 = '#000000',
 
-    purple_01 = '#008837',
-    purple_02 = '#9ca0b0',
-    purple_03 = '#a8aec1',
+    purple_01 = '#C8102E',
+    purple_02 = '#C8102E',
+    purple_03 = '#C8102E',
 
-    pink_01 = '#C493B0',
+    pink_01 = '#C8102E',
 
     none = 'NONE',
 }
